@@ -107,7 +107,7 @@ class Game{
                             player.score =player.score+1;
                             player.update();
                         }}}           
-                    }
+                    } 
 
     end(){
        console.log("Game Ended");
